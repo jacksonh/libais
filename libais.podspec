@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name          = 'libais'
-  s.version       = '1.0.2'
+  s.version       = '1.0.3'
   s.authors		 = 'Kurt Schwehr'
   s.license		 = 'LGPL v3'
   s.homepage      = 'https://github.com/rolker/libais'
